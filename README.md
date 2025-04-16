@@ -40,8 +40,8 @@ A Python-based backend engine for **Cranium League** — a private IPL fantasy b
    - **Sort the `Name` column A→Z**
      > In the *Sort Warning* dialog: ✅ Select **"Expand the selection"**
    - Copy the bet data from the **match table** (based on match number)
-     → Paste into the **"Bets" section** of the main leaderboard table.
-   - **Sort the `Current Bal` column A→Z**
+     → Paste into the **"Bets"** column of the main leaderboard table.
+   - **Sort the `Current Bal`column Largest → Smallest**
      > In the *Sort Warning* dialog: ✅ Select **"Expand the selection"**
    - **Sort the `Rank` column 1→9**
      > In the *Sort Warning* dialog: ✅ Select **"Continue with current selection"**
