@@ -50,9 +50,9 @@ A Python-based backend engine for **Cranium League** — a private IPL fantasy b
    - **Close the Excel sheet** completely.
 
 6. Run `4_excel_datacross.py`  
-   → Resets interim values, updates rolling balances.
+   → Copies the `Current bal` into `Prev Bal` and resets the `bets` column and `miscellaneous` column to take inputs for the next match.
 7. Run `5_excel-backup.py`  
-   → Creates a timestamped backup in the `/backup` folder.
+   → Creates a day-to-day timestamped backup in the `/backup` folder.
 
 ---
 
