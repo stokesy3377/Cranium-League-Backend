@@ -8,7 +8,7 @@ A Python-based backend engine for **Cranium League** — a private IPL fantasy b
 
 | File                  | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| `rawtext.txt`         | 🔹 **Input file** — Paste raw WhatsApp Web bet data here before processing. |
+| `rawtext.txt`         |  **Input file** — Paste raw WhatsApp Web bet data here before processing. |
 | `edit-text.py`        | Cleans raw data by removing names and isolating bet amounts + team names.   |
 | `CL_data_mod.py`      | Parses bets, assigns scores based on the winning team, and generates output.|
 | `3_Import_To_Excel.py`| Maps scores to match-specific cells in `CL_S1.xlsx`.                        |
